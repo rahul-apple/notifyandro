@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "734284333557",
+    "firebase_url": "https://my-notification-app-6ba3e.firebaseio.com",
+    "project_id": "my-notification-app-6ba3e",
+    "storage_bucket": "my-notification-app-6ba3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734284333557:android:fcc60255c513a97b",
+        "android_client_info": {
+          "package_name": "com.example.rahulr.mynotificationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734284333557-hq6108skdsmre7ha98tned5hc3aucv8e.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "734284333557-hq6108skdsmre7ha98tned5hc3aucv8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmJNLhz6-rmfOa9QZXRRHaNwblWqppJh0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
